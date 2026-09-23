@@ -1,0 +1,1001 @@
+id_evento,id_aluno,tipo_evento,motivo,id_tempo,semestre_evento,id_curso
+1,2705,troca_turno,Trabalho,31,4º Semestre,2
+2,4437,troca_turno,Distancia,95,5º Semestre,2
+3,3013,evasao,Desmotivacao,8,1º Semestre,5
+4,2471,troca_turno,Distancia,27,1º Semestre,4
+5,3797,evasao,Trabalho,28,2º Semestre,5
+6,294,jubilamento,Problemas pessoais,49,6º Semestre,1
+7,1375,jubilamento,Distancia,55,1º Semestre,2
+8,3383,evasao,Trabalho,20,2º Semestre,4
+9,1209,troca_turno,Trabalho,100,3º Semestre,6
+10,1893,jubilamento,Desmotivacao,20,6º Semestre,1
+11,1710,evasao,Distancia,61,5º Semestre,6
+12,4879,troca_turno,Distancia,24,6º Semestre,4
+13,3618,evasao,Financeiro,98,3º Semestre,6
+14,214,evasao,Desmotivacao,22,3º Semestre,6
+15,2590,evasao,Distancia,11,2º Semestre,6
+16,4472,troca_turno,Financeiro,65,2º Semestre,2
+17,1591,troca_turno,Problemas pessoais,56,2º Semestre,2
+18,3350,jubilamento,Distancia,33,1º Semestre,1
+19,864,trancamento,Problemas pessoais,22,3º Semestre,5
+20,817,jubilamento,Problemas pessoais,62,2º Semestre,5
+21,1643,troca_turno,Desmotivacao,52,4º Semestre,1
+22,3652,trancamento,Distancia,94,6º Semestre,5
+23,147,jubilamento,Mudanca de cidade,3,3º Semestre,2
+24,2533,jubilamento,Financeiro,72,6º Semestre,3
+25,4080,trancamento,Trabalho,3,1º Semestre,2
+26,3643,jubilamento,Insatisfacao com curso,72,5º Semestre,5
+27,3389,trancamento,Insatisfacao com curso,70,1º Semestre,1
+28,3554,jubilamento,Financeiro,17,3º Semestre,5
+29,1583,trancamento,Mudanca de cidade,43,2º Semestre,6
+30,3233,trancamento,Mudanca de cidade,28,1º Semestre,4
+31,1347,trancamento,Distancia,60,3º Semestre,4
+32,1775,evasao,Distancia,87,6º Semestre,5
+33,878,troca_turno,Trabalho,29,2º Semestre,5
+34,3108,evasao,Insatisfacao com curso,73,2º Semestre,4
+35,2322,trancamento,Distancia,21,2º Semestre,2
+36,2682,jubilamento,Problemas pessoais,49,6º Semestre,2
+37,3299,troca_turno,Distancia,49,4º Semestre,5
+38,841,trancamento,Mudanca de cidade,73,4º Semestre,2
+39,1608,evasao,Distancia,37,1º Semestre,3
+40,4594,jubilamento,Problemas pessoais,76,4º Semestre,4
+41,4816,jubilamento,Problemas pessoais,58,1º Semestre,6
+42,3293,trancamento,Reprovacoes acumuladas,96,4º Semestre,5
+43,2351,jubilamento,Mudanca de cidade,40,6º Semestre,5
+44,2048,evasao,Financeiro,71,1º Semestre,3
+45,2615,evasao,Mudanca de cidade,96,3º Semestre,1
+46,1649,troca_turno,Reprovacoes acumuladas,84,4º Semestre,6
+47,1341,trancamento,Problemas pessoais,87,6º Semestre,1
+48,4364,jubilamento,Reprovacoes acumuladas,41,1º Semestre,3
+49,4920,jubilamento,Insatisfacao com curso,18,6º Semestre,6
+50,1302,evasao,Mudanca de cidade,5,6º Semestre,3
+51,3437,evasao,Reprovacoes acumuladas,18,4º Semestre,4
+52,652,trancamento,Insatisfacao com curso,59,5º Semestre,6
+53,580,trancamento,Mudanca de cidade,59,6º Semestre,6
+54,1801,evasao,Problemas pessoais,71,1º Semestre,2
+55,2170,trancamento,Reprovacoes acumuladas,55,1º Semestre,3
+56,147,troca_turno,Financeiro,51,3º Semestre,1
+57,2583,trancamento,Distancia,4,2º Semestre,3
+58,928,evasao,Reprovacoes acumuladas,28,4º Semestre,2
+59,3543,troca_turno,Mudanca de cidade,32,5º Semestre,3
+60,3525,evasao,Reprovacoes acumuladas,83,2º Semestre,4
+61,1262,jubilamento,Mudanca de cidade,88,4º Semestre,3
+62,2306,evasao,Financeiro,14,6º Semestre,1
+63,3923,evasao,Insatisfacao com curso,69,2º Semestre,6
+64,860,evasao,Insatisfacao com curso,54,3º Semestre,2
+65,4821,trancamento,Financeiro,51,4º Semestre,3
+66,1142,jubilamento,Insatisfacao com curso,89,6º Semestre,3
+67,170,trancamento,Trabalho,23,5º Semestre,4
+68,1369,jubilamento,Insatisfacao com curso,14,2º Semestre,2
+69,1425,trancamento,Reprovacoes acumuladas,33,2º Semestre,6
+70,4229,evasao,Financeiro,48,4º Semestre,4
+71,2482,evasao,Distancia,83,5º Semestre,3
+72,1696,evasao,Reprovacoes acumuladas,5,3º Semestre,3
+73,4425,troca_turno,Trabalho,61,2º Semestre,6
+74,366,evasao,Mudanca de cidade,93,3º Semestre,6
+75,3960,trancamento,Insatisfacao com curso,7,3º Semestre,1
+76,2589,trancamento,Problemas pessoais,17,5º Semestre,5
+77,2170,troca_turno,Distancia,10,3º Semestre,6
+78,4973,trancamento,Mudanca de cidade,82,5º Semestre,2
+79,4646,troca_turno,Insatisfacao com curso,28,1º Semestre,6
+80,3957,troca_turno,Desmotivacao,58,1º Semestre,4
+81,1724,jubilamento,Reprovacoes acumuladas,98,4º Semestre,4
+82,2719,jubilamento,Financeiro,82,1º Semestre,6
+83,4845,trancamento,Problemas pessoais,76,5º Semestre,2
+84,3615,jubilamento,Insatisfacao com curso,73,2º Semestre,4
+85,470,jubilamento,Reprovacoes acumuladas,25,6º Semestre,1
+86,3118,trancamento,Reprovacoes acumuladas,8,3º Semestre,2
+87,2441,jubilamento,Problemas pessoais,52,4º Semestre,6
+88,907,evasao,Insatisfacao com curso,60,1º Semestre,4
+89,1241,troca_turno,Financeiro,24,3º Semestre,5
+90,1272,evasao,Desmotivacao,89,2º Semestre,1
+91,1052,trancamento,Distancia,93,6º Semestre,3
+92,3934,jubilamento,Distancia,24,4º Semestre,2
+93,2562,jubilamento,Problemas pessoais,68,2º Semestre,1
+94,2594,troca_turno,Distancia,73,2º Semestre,1
+95,903,evasao,Insatisfacao com curso,77,4º Semestre,5
+96,2965,evasao,Problemas pessoais,45,1º Semestre,6
+97,4484,jubilamento,Problemas pessoais,80,6º Semestre,1
+98,1148,jubilamento,Mudanca de cidade,56,5º Semestre,1
+99,478,evasao,Reprovacoes acumuladas,52,2º Semestre,1
+100,2191,troca_turno,Insatisfacao com curso,60,1º Semestre,6
+101,842,jubilamento,Desmotivacao,66,5º Semestre,2
+102,119,jubilamento,Problemas pessoais,52,2º Semestre,3
+103,4389,jubilamento,Distancia,12,1º Semestre,1
+104,1005,trancamento,Distancia,8,4º Semestre,4
+105,316,jubilamento,Insatisfacao com curso,62,6º Semestre,2
+106,3845,jubilamento,Desmotivacao,29,2º Semestre,6
+107,2714,trancamento,Reprovacoes acumuladas,58,2º Semestre,2
+108,4817,jubilamento,Mudanca de cidade,4,1º Semestre,2
+109,4201,jubilamento,Reprovacoes acumuladas,24,5º Semestre,4
+110,4768,troca_turno,Desmotivacao,65,5º Semestre,3
+111,4085,troca_turno,Mudanca de cidade,76,6º Semestre,4
+112,405,trancamento,Distancia,100,4º Semestre,5
+113,87,trancamento,Desmotivacao,27,6º Semestre,6
+114,1537,evasao,Mudanca de cidade,78,4º Semestre,6
+115,2927,evasao,Insatisfacao com curso,72,2º Semestre,6
+116,4209,trancamento,Reprovacoes acumuladas,45,5º Semestre,5
+117,940,troca_turno,Reprovacoes acumuladas,39,4º Semestre,6
+118,3306,jubilamento,Distancia,18,5º Semestre,5
+119,3768,jubilamento,Desmotivacao,92,2º Semestre,5
+120,3312,trancamento,Financeiro,9,1º Semestre,2
+121,2781,trancamento,Distancia,80,5º Semestre,6
+122,3594,trancamento,Insatisfacao com curso,100,1º Semestre,3
+123,3554,trancamento,Desmotivacao,17,4º Semestre,4
+124,2762,jubilamento,Financeiro,43,3º Semestre,3
+125,328,troca_turno,Problemas pessoais,71,3º Semestre,1
+126,1704,trancamento,Distancia,71,5º Semestre,5
+127,2664,jubilamento,Problemas pessoais,40,3º Semestre,4
+128,4635,troca_turno,Insatisfacao com curso,1,5º Semestre,2
+129,3307,evasao,Distancia,85,1º Semestre,1
+130,4422,jubilamento,Reprovacoes acumuladas,29,2º Semestre,5
+131,1337,jubilamento,Insatisfacao com curso,88,5º Semestre,6
+132,3168,jubilamento,Financeiro,77,3º Semestre,6
+133,1073,jubilamento,Mudanca de cidade,28,1º Semestre,5
+134,45,evasao,Financeiro,5,2º Semestre,6
+135,4481,evasao,Financeiro,99,4º Semestre,3
+136,901,troca_turno,Mudanca de cidade,84,6º Semestre,1
+137,75,evasao,Financeiro,29,1º Semestre,2
+138,4313,evasao,Insatisfacao com curso,86,6º Semestre,2
+139,4869,jubilamento,Problemas pessoais,97,4º Semestre,3
+140,3131,troca_turno,Distancia,52,5º Semestre,4
+141,2331,evasao,Insatisfacao com curso,50,2º Semestre,5
+142,3192,troca_turno,Trabalho,66,4º Semestre,2
+143,2092,jubilamento,Reprovacoes acumuladas,41,3º Semestre,4
+144,100,trancamento,Financeiro,81,4º Semestre,5
+145,442,jubilamento,Problemas pessoais,1,4º Semestre,1
+146,1381,trancamento,Financeiro,14,1º Semestre,4
+147,3493,troca_turno,Trabalho,43,5º Semestre,5
+148,3843,troca_turno,Trabalho,36,3º Semestre,6
+149,331,troca_turno,Desmotivacao,14,3º Semestre,2
+150,1727,jubilamento,Distancia,88,6º Semestre,3
+151,1611,troca_turno,Distancia,5,5º Semestre,6
+152,749,troca_turno,Insatisfacao com curso,95,3º Semestre,5
+153,4875,troca_turno,Trabalho,77,1º Semestre,1
+154,793,evasao,Distancia,66,3º Semestre,1
+155,807,trancamento,Distancia,29,3º Semestre,6
+156,2134,trancamento,Insatisfacao com curso,63,6º Semestre,6
+157,4704,jubilamento,Distancia,98,4º Semestre,5
+158,4820,evasao,Distancia,52,5º Semestre,1
+159,2603,jubilamento,Distancia,31,5º Semestre,2
+160,4771,evasao,Mudanca de cidade,78,5º Semestre,5
+161,345,jubilamento,Trabalho,77,5º Semestre,6
+162,549,trancamento,Financeiro,84,1º Semestre,1
+163,3066,evasao,Insatisfacao com curso,58,1º Semestre,4
+164,2444,jubilamento,Desmotivacao,81,6º Semestre,3
+165,3876,troca_turno,Trabalho,60,6º Semestre,6
+166,1772,evasao,Problemas pessoais,47,3º Semestre,1
+167,2893,trancamento,Problemas pessoais,83,6º Semestre,6
+168,1311,evasao,Distancia,36,3º Semestre,4
+169,2496,troca_turno,Reprovacoes acumuladas,75,3º Semestre,2
+170,2785,troca_turno,Distancia,99,3º Semestre,2
+171,425,evasao,Problemas pessoais,20,6º Semestre,6
+172,2851,jubilamento,Desmotivacao,23,6º Semestre,5
+173,4674,evasao,Desmotivacao,93,4º Semestre,5
+174,308,trancamento,Insatisfacao com curso,18,2º Semestre,3
+175,2053,evasao,Problemas pessoais,98,4º Semestre,2
+176,1542,troca_turno,Insatisfacao com curso,67,5º Semestre,6
+177,2320,jubilamento,Desmotivacao,4,3º Semestre,1
+178,3579,trancamento,Reprovacoes acumuladas,68,6º Semestre,3
+179,1233,jubilamento,Insatisfacao com curso,22,3º Semestre,5
+180,1274,jubilamento,Insatisfacao com curso,54,3º Semestre,1
+181,354,trancamento,Mudanca de cidade,33,4º Semestre,5
+182,203,evasao,Mudanca de cidade,38,3º Semestre,6
+183,1121,troca_turno,Insatisfacao com curso,2,1º Semestre,6
+184,2382,evasao,Reprovacoes acumuladas,47,1º Semestre,6
+185,361,jubilamento,Trabalho,57,4º Semestre,3
+186,3850,trancamento,Trabalho,84,2º Semestre,2
+187,3052,trancamento,Mudanca de cidade,49,2º Semestre,4
+188,410,evasao,Trabalho,79,4º Semestre,2
+189,1346,troca_turno,Mudanca de cidade,99,2º Semestre,3
+190,1544,trancamento,Mudanca de cidade,28,1º Semestre,4
+191,499,evasao,Desmotivacao,100,6º Semestre,6
+192,1016,trancamento,Insatisfacao com curso,68,1º Semestre,2
+193,2038,troca_turno,Desmotivacao,13,4º Semestre,3
+194,4683,jubilamento,Mudanca de cidade,33,5º Semestre,1
+195,4044,evasao,Reprovacoes acumuladas,71,1º Semestre,2
+196,454,trancamento,Trabalho,93,3º Semestre,4
+197,336,evasao,Financeiro,80,5º Semestre,3
+198,4212,trancamento,Distancia,35,3º Semestre,1
+199,719,evasao,Desmotivacao,74,4º Semestre,6
+200,1904,evasao,Desmotivacao,10,1º Semestre,3
+201,796,trancamento,Trabalho,100,3º Semestre,6
+202,3518,evasao,Financeiro,57,6º Semestre,4
+203,2155,troca_turno,Distancia,52,2º Semestre,1
+204,2323,troca_turno,Problemas pessoais,29,5º Semestre,2
+205,1218,jubilamento,Problemas pessoais,24,5º Semestre,3
+206,862,jubilamento,Desmotivacao,70,3º Semestre,1
+207,343,troca_turno,Problemas pessoais,4,5º Semestre,4
+208,2567,troca_turno,Mudanca de cidade,4,6º Semestre,4
+209,3367,jubilamento,Problemas pessoais,95,2º Semestre,1
+210,815,troca_turno,Financeiro,80,4º Semestre,2
+211,3615,trancamento,Problemas pessoais,8,6º Semestre,6
+212,674,jubilamento,Distancia,21,5º Semestre,3
+213,1071,troca_turno,Financeiro,40,2º Semestre,2
+214,69,evasao,Mudanca de cidade,23,2º Semestre,1
+215,2605,evasao,Problemas pessoais,57,5º Semestre,2
+216,3848,trancamento,Desmotivacao,40,6º Semestre,3
+217,3795,troca_turno,Problemas pessoais,55,6º Semestre,3
+218,1197,trancamento,Insatisfacao com curso,95,6º Semestre,6
+219,2559,troca_turno,Reprovacoes acumuladas,93,6º Semestre,1
+220,4921,evasao,Insatisfacao com curso,57,2º Semestre,4
+221,3531,trancamento,Financeiro,55,2º Semestre,3
+222,4889,troca_turno,Insatisfacao com curso,63,2º Semestre,3
+223,2611,trancamento,Problemas pessoais,34,1º Semestre,3
+224,1721,trancamento,Mudanca de cidade,5,5º Semestre,4
+225,362,jubilamento,Problemas pessoais,1,6º Semestre,1
+226,4583,jubilamento,Trabalho,38,5º Semestre,4
+227,4475,trancamento,Desmotivacao,51,5º Semestre,6
+228,4968,jubilamento,Reprovacoes acumuladas,49,1º Semestre,5
+229,4964,evasao,Desmotivacao,37,5º Semestre,6
+230,1620,evasao,Mudanca de cidade,61,3º Semestre,3
+231,249,troca_turno,Trabalho,1,5º Semestre,2
+232,4337,troca_turno,Reprovacoes acumuladas,49,2º Semestre,4
+233,3873,troca_turno,Mudanca de cidade,97,4º Semestre,5
+234,4657,evasao,Trabalho,75,4º Semestre,2
+235,1413,troca_turno,Trabalho,34,2º Semestre,1
+236,815,troca_turno,Reprovacoes acumuladas,31,3º Semestre,1
+237,2243,jubilamento,Problemas pessoais,81,3º Semestre,1
+238,3752,troca_turno,Trabalho,10,6º Semestre,1
+239,1438,jubilamento,Mudanca de cidade,51,4º Semestre,5
+240,2892,trancamento,Trabalho,16,2º Semestre,5
+241,1566,jubilamento,Desmotivacao,6,1º Semestre,5
+242,1776,trancamento,Desmotivacao,28,5º Semestre,3
+243,4845,trancamento,Reprovacoes acumuladas,61,4º Semestre,5
+244,4924,trancamento,Insatisfacao com curso,92,4º Semestre,1
+245,1379,trancamento,Mudanca de cidade,47,1º Semestre,3
+246,4880,troca_turno,Problemas pessoais,94,1º Semestre,1
+247,495,trancamento,Financeiro,3,3º Semestre,1
+248,4194,evasao,Desmotivacao,53,4º Semestre,2
+249,289,trancamento,Mudanca de cidade,55,1º Semestre,1
+250,1386,evasao,Trabalho,12,6º Semestre,4
+251,2236,jubilamento,Trabalho,87,6º Semestre,5
+252,4352,troca_turno,Problemas pessoais,58,4º Semestre,2
+253,578,evasao,Trabalho,11,6º Semestre,1
+254,3326,evasao,Financeiro,30,1º Semestre,6
+255,4352,jubilamento,Insatisfacao com curso,29,4º Semestre,1
+256,3187,evasao,Distancia,36,3º Semestre,3
+257,2889,evasao,Reprovacoes acumuladas,9,2º Semestre,6
+258,1044,troca_turno,Distancia,54,4º Semestre,3
+259,351,evasao,Trabalho,62,6º Semestre,6
+260,439,jubilamento,Mudanca de cidade,73,6º Semestre,3
+261,4906,evasao,Problemas pessoais,42,4º Semestre,5
+262,4516,jubilamento,Insatisfacao com curso,16,3º Semestre,6
+263,1721,jubilamento,Trabalho,23,1º Semestre,1
+264,2283,jubilamento,Trabalho,41,5º Semestre,2
+265,4483,jubilamento,Desmotivacao,51,3º Semestre,4
+266,4152,jubilamento,Mudanca de cidade,80,4º Semestre,6
+267,2104,jubilamento,Desmotivacao,4,2º Semestre,4
+268,4199,evasao,Trabalho,59,6º Semestre,3
+269,2724,trancamento,Trabalho,81,5º Semestre,3
+270,524,troca_turno,Financeiro,48,3º Semestre,1
+271,2197,troca_turno,Problemas pessoais,45,6º Semestre,6
+272,3793,trancamento,Distancia,44,3º Semestre,1
+273,1832,troca_turno,Trabalho,37,6º Semestre,4
+274,289,trancamento,Insatisfacao com curso,72,1º Semestre,5
+275,2334,troca_turno,Desmotivacao,79,3º Semestre,6
+276,3612,jubilamento,Insatisfacao com curso,53,3º Semestre,1
+277,2788,jubilamento,Insatisfacao com curso,49,4º Semestre,3
+278,2186,jubilamento,Desmotivacao,11,2º Semestre,5
+279,3418,trancamento,Distancia,26,4º Semestre,2
+280,4053,jubilamento,Distancia,82,2º Semestre,4
+281,2426,evasao,Reprovacoes acumuladas,81,1º Semestre,4
+282,588,trancamento,Reprovacoes acumuladas,62,6º Semestre,2
+283,1282,troca_turno,Desmotivacao,56,1º Semestre,2
+284,4266,evasao,Problemas pessoais,24,1º Semestre,6
+285,440,troca_turno,Insatisfacao com curso,85,2º Semestre,6
+286,2332,evasao,Desmotivacao,53,2º Semestre,4
+287,2747,trancamento,Distancia,75,3º Semestre,2
+288,1050,jubilamento,Distancia,77,2º Semestre,2
+289,3518,trancamento,Problemas pessoais,91,3º Semestre,2
+290,419,troca_turno,Mudanca de cidade,87,1º Semestre,4
+291,2851,evasao,Insatisfacao com curso,98,6º Semestre,2
+292,617,evasao,Mudanca de cidade,4,1º Semestre,6
+293,1046,jubilamento,Financeiro,98,2º Semestre,4
+294,446,troca_turno,Mudanca de cidade,2,5º Semestre,2
+295,3853,evasao,Reprovacoes acumuladas,91,4º Semestre,6
+296,2935,jubilamento,Insatisfacao com curso,46,6º Semestre,3
+297,1308,evasao,Financeiro,85,6º Semestre,5
+298,1721,evasao,Desmotivacao,66,5º Semestre,4
+299,1855,jubilamento,Reprovacoes acumuladas,24,2º Semestre,1
+300,1866,troca_turno,Reprovacoes acumuladas,67,6º Semestre,4
+301,1442,trancamento,Reprovacoes acumuladas,3,2º Semestre,5
+302,2686,evasao,Problemas pessoais,35,5º Semestre,4
+303,401,evasao,Financeiro,11,4º Semestre,6
+304,1684,troca_turno,Financeiro,1,1º Semestre,3
+305,1350,evasao,Desmotivacao,77,4º Semestre,6
+306,326,trancamento,Desmotivacao,25,1º Semestre,2
+307,3014,trancamento,Mudanca de cidade,10,3º Semestre,2
+308,353,trancamento,Distancia,15,3º Semestre,1
+309,1265,jubilamento,Desmotivacao,84,3º Semestre,6
+310,1032,evasao,Insatisfacao com curso,15,6º Semestre,1
+311,2626,troca_turno,Distancia,26,1º Semestre,2
+312,4407,jubilamento,Trabalho,47,6º Semestre,2
+313,3766,trancamento,Mudanca de cidade,46,6º Semestre,6
+314,2943,troca_turno,Reprovacoes acumuladas,32,2º Semestre,3
+315,1347,jubilamento,Problemas pessoais,89,4º Semestre,3
+316,4678,jubilamento,Insatisfacao com curso,50,2º Semestre,3
+317,4743,troca_turno,Mudanca de cidade,85,1º Semestre,5
+318,3745,jubilamento,Distancia,67,5º Semestre,6
+319,1474,evasao,Insatisfacao com curso,6,2º Semestre,4
+320,1084,jubilamento,Reprovacoes acumuladas,70,3º Semestre,2
+321,1225,jubilamento,Desmotivacao,11,4º Semestre,4
+322,1073,evasao,Desmotivacao,93,5º Semestre,5
+323,4244,jubilamento,Mudanca de cidade,12,6º Semestre,1
+324,4266,trancamento,Distancia,24,4º Semestre,6
+325,2626,evasao,Problemas pessoais,2,6º Semestre,4
+326,3577,jubilamento,Distancia,42,1º Semestre,3
+327,2742,trancamento,Distancia,75,4º Semestre,3
+328,3043,troca_turno,Desmotivacao,71,3º Semestre,1
+329,4746,trancamento,Distancia,15,5º Semestre,5
+330,2834,evasao,Reprovacoes acumuladas,48,6º Semestre,6
+331,1550,jubilamento,Mudanca de cidade,74,6º Semestre,4
+332,2860,troca_turno,Problemas pessoais,60,2º Semestre,4
+333,2793,troca_turno,Insatisfacao com curso,95,4º Semestre,4
+334,522,evasao,Desmotivacao,14,6º Semestre,4
+335,3164,evasao,Reprovacoes acumuladas,95,6º Semestre,6
+336,4105,trancamento,Reprovacoes acumuladas,95,6º Semestre,1
+337,2232,trancamento,Financeiro,72,4º Semestre,2
+338,4286,jubilamento,Financeiro,16,1º Semestre,4
+339,3839,trancamento,Problemas pessoais,81,6º Semestre,3
+340,2249,evasao,Reprovacoes acumuladas,55,1º Semestre,2
+341,478,evasao,Insatisfacao com curso,27,2º Semestre,5
+342,2730,trancamento,Reprovacoes acumuladas,72,6º Semestre,1
+343,4992,evasao,Reprovacoes acumuladas,100,6º Semestre,2
+344,4201,evasao,Reprovacoes acumuladas,87,2º Semestre,3
+345,3439,jubilamento,Financeiro,99,2º Semestre,2
+346,2398,evasao,Desmotivacao,4,4º Semestre,1
+347,1852,evasao,Reprovacoes acumuladas,83,3º Semestre,6
+348,1519,troca_turno,Problemas pessoais,98,5º Semestre,5
+349,4312,troca_turno,Insatisfacao com curso,83,4º Semestre,2
+350,4109,jubilamento,Mudanca de cidade,7,5º Semestre,5
+351,4020,troca_turno,Mudanca de cidade,44,3º Semestre,4
+352,3613,jubilamento,Mudanca de cidade,96,1º Semestre,1
+353,691,evasao,Problemas pessoais,25,5º Semestre,6
+354,4776,evasao,Trabalho,55,6º Semestre,6
+355,2033,jubilamento,Insatisfacao com curso,46,1º Semestre,3
+356,3234,evasao,Financeiro,18,3º Semestre,2
+357,159,evasao,Reprovacoes acumuladas,91,6º Semestre,5
+358,2321,evasao,Desmotivacao,83,6º Semestre,3
+359,2509,evasao,Reprovacoes acumuladas,94,6º Semestre,3
+360,27,evasao,Insatisfacao com curso,60,3º Semestre,5
+361,2937,evasao,Desmotivacao,41,3º Semestre,3
+362,1027,jubilamento,Desmotivacao,93,1º Semestre,3
+363,4259,evasao,Desmotivacao,42,3º Semestre,1
+364,1474,trancamento,Problemas pessoais,1,1º Semestre,5
+365,4892,troca_turno,Insatisfacao com curso,45,3º Semestre,5
+366,4485,trancamento,Financeiro,51,6º Semestre,4
+367,3479,jubilamento,Desmotivacao,4,4º Semestre,4
+368,1591,trancamento,Reprovacoes acumuladas,6,2º Semestre,4
+369,4475,trancamento,Desmotivacao,50,2º Semestre,1
+370,4504,jubilamento,Trabalho,58,4º Semestre,3
+371,2727,jubilamento,Problemas pessoais,72,6º Semestre,5
+372,974,evasao,Mudanca de cidade,49,1º Semestre,4
+373,1973,jubilamento,Insatisfacao com curso,38,2º Semestre,2
+374,604,evasao,Problemas pessoais,26,1º Semestre,3
+375,9,trancamento,Financeiro,62,1º Semestre,6
+376,368,troca_turno,Financeiro,98,2º Semestre,6
+377,1778,jubilamento,Distancia,47,1º Semestre,5
+378,3299,evasao,Desmotivacao,3,2º Semestre,5
+379,3395,troca_turno,Trabalho,72,5º Semestre,6
+380,4996,troca_turno,Distancia,70,3º Semestre,1
+381,451,trancamento,Distancia,54,6º Semestre,6
+382,4969,troca_turno,Trabalho,87,2º Semestre,2
+383,2116,evasao,Trabalho,8,6º Semestre,1
+384,1453,troca_turno,Reprovacoes acumuladas,76,6º Semestre,1
+385,3410,troca_turno,Desmotivacao,90,3º Semestre,3
+386,1729,jubilamento,Distancia,82,1º Semestre,1
+387,3064,jubilamento,Trabalho,10,5º Semestre,5
+388,1916,evasao,Financeiro,30,1º Semestre,6
+389,2924,troca_turno,Insatisfacao com curso,3,2º Semestre,3
+390,2095,evasao,Problemas pessoais,40,1º Semestre,6
+391,2462,troca_turno,Financeiro,64,3º Semestre,3
+392,2239,evasao,Reprovacoes acumuladas,98,6º Semestre,6
+393,2966,jubilamento,Mudanca de cidade,39,3º Semestre,3
+394,1179,trancamento,Problemas pessoais,51,3º Semestre,1
+395,3891,troca_turno,Desmotivacao,12,6º Semestre,2
+396,2234,evasao,Trabalho,84,4º Semestre,2
+397,4606,jubilamento,Problemas pessoais,69,2º Semestre,3
+398,4005,jubilamento,Desmotivacao,90,1º Semestre,3
+399,4534,evasao,Trabalho,7,2º Semestre,4
+400,1061,troca_turno,Desmotivacao,27,2º Semestre,5
+401,3346,evasao,Desmotivacao,3,1º Semestre,2
+402,350,trancamento,Financeiro,50,3º Semestre,4
+403,1698,jubilamento,Financeiro,3,6º Semestre,5
+404,810,trancamento,Problemas pessoais,40,1º Semestre,6
+405,742,trancamento,Financeiro,99,4º Semestre,2
+406,1976,evasao,Problemas pessoais,52,4º Semestre,4
+407,1281,evasao,Insatisfacao com curso,66,5º Semestre,2
+408,2834,jubilamento,Desmotivacao,36,6º Semestre,1
+409,3847,trancamento,Reprovacoes acumuladas,8,2º Semestre,4
+410,129,troca_turno,Trabalho,78,2º Semestre,1
+411,2855,evasao,Distancia,60,1º Semestre,5
+412,4342,evasao,Financeiro,75,5º Semestre,3
+413,2168,trancamento,Reprovacoes acumuladas,18,3º Semestre,6
+414,4329,troca_turno,Mudanca de cidade,46,2º Semestre,2
+415,2294,troca_turno,Financeiro,40,1º Semestre,4
+416,1797,troca_turno,Reprovacoes acumuladas,94,6º Semestre,2
+417,4619,jubilamento,Mudanca de cidade,76,1º Semestre,1
+418,1605,jubilamento,Distancia,37,6º Semestre,6
+419,841,jubilamento,Problemas pessoais,38,4º Semestre,5
+420,4708,jubilamento,Trabalho,90,5º Semestre,3
+421,51,evasao,Distancia,3,5º Semestre,2
+422,4216,troca_turno,Trabalho,9,4º Semestre,2
+423,2192,trancamento,Financeiro,16,4º Semestre,3
+424,2058,evasao,Desmotivacao,87,6º Semestre,6
+425,4218,jubilamento,Distancia,79,6º Semestre,6
+426,1734,trancamento,Desmotivacao,13,4º Semestre,6
+427,3332,evasao,Insatisfacao com curso,28,1º Semestre,1
+428,2497,evasao,Trabalho,13,1º Semestre,5
+429,2414,evasao,Reprovacoes acumuladas,53,4º Semestre,5
+430,4493,jubilamento,Mudanca de cidade,34,6º Semestre,5
+431,486,trancamento,Mudanca de cidade,16,5º Semestre,3
+432,429,jubilamento,Distancia,83,1º Semestre,1
+433,3422,troca_turno,Desmotivacao,36,6º Semestre,1
+434,1005,trancamento,Mudanca de cidade,32,2º Semestre,1
+435,1883,troca_turno,Desmotivacao,99,4º Semestre,2
+436,3295,evasao,Insatisfacao com curso,74,5º Semestre,3
+437,2147,troca_turno,Reprovacoes acumuladas,70,4º Semestre,3
+438,2201,jubilamento,Desmotivacao,16,2º Semestre,3
+439,517,trancamento,Reprovacoes acumuladas,80,1º Semestre,6
+440,3424,jubilamento,Insatisfacao com curso,82,1º Semestre,3
+441,3543,jubilamento,Financeiro,7,1º Semestre,6
+442,2259,evasao,Desmotivacao,32,4º Semestre,1
+443,4655,jubilamento,Insatisfacao com curso,22,4º Semestre,2
+444,902,trancamento,Desmotivacao,9,3º Semestre,4
+445,3784,trancamento,Trabalho,46,4º Semestre,3
+446,1821,jubilamento,Reprovacoes acumuladas,83,1º Semestre,2
+447,3127,jubilamento,Desmotivacao,81,1º Semestre,1
+448,3148,jubilamento,Reprovacoes acumuladas,18,5º Semestre,6
+449,3522,trancamento,Distancia,40,6º Semestre,2
+450,2373,trancamento,Financeiro,11,3º Semestre,5
+451,1405,trancamento,Trabalho,7,2º Semestre,6
+452,3083,trancamento,Problemas pessoais,86,2º Semestre,5
+453,189,trancamento,Mudanca de cidade,73,1º Semestre,3
+454,3373,troca_turno,Mudanca de cidade,37,2º Semestre,1
+455,2111,jubilamento,Insatisfacao com curso,98,5º Semestre,4
+456,4082,trancamento,Trabalho,41,4º Semestre,4
+457,373,trancamento,Insatisfacao com curso,85,1º Semestre,1
+458,743,troca_turno,Financeiro,3,2º Semestre,3
+459,1607,evasao,Trabalho,5,1º Semestre,5
+460,4148,troca_turno,Reprovacoes acumuladas,90,2º Semestre,2
+461,2560,troca_turno,Mudanca de cidade,44,5º Semestre,6
+462,2346,trancamento,Financeiro,23,5º Semestre,1
+463,3330,troca_turno,Desmotivacao,50,3º Semestre,5
+464,2734,trancamento,Insatisfacao com curso,90,5º Semestre,5
+465,3919,evasao,Problemas pessoais,91,6º Semestre,6
+466,3568,jubilamento,Insatisfacao com curso,35,5º Semestre,3
+467,2761,troca_turno,Distancia,41,1º Semestre,5
+468,1809,troca_turno,Mudanca de cidade,60,5º Semestre,1
+469,4647,troca_turno,Distancia,60,2º Semestre,3
+470,2823,trancamento,Insatisfacao com curso,58,2º Semestre,5
+471,4221,trancamento,Distancia,44,4º Semestre,5
+472,1549,trancamento,Problemas pessoais,53,5º Semestre,6
+473,3095,troca_turno,Problemas pessoais,82,1º Semestre,3
+474,2588,troca_turno,Insatisfacao com curso,24,5º Semestre,3
+475,4313,troca_turno,Desmotivacao,86,1º Semestre,2
+476,2500,evasao,Desmotivacao,90,4º Semestre,1
+477,3881,troca_turno,Insatisfacao com curso,60,1º Semestre,3
+478,392,trancamento,Trabalho,32,6º Semestre,5
+479,411,trancamento,Problemas pessoais,77,1º Semestre,1
+480,1498,evasao,Insatisfacao com curso,26,2º Semestre,5
+481,1869,evasao,Problemas pessoais,7,3º Semestre,4
+482,4973,jubilamento,Trabalho,55,1º Semestre,2
+483,1860,trancamento,Reprovacoes acumuladas,21,5º Semestre,5
+484,1623,troca_turno,Desmotivacao,86,3º Semestre,4
+485,2614,trancamento,Problemas pessoais,38,3º Semestre,5
+486,1321,jubilamento,Insatisfacao com curso,35,2º Semestre,2
+487,4061,trancamento,Distancia,4,3º Semestre,2
+488,4670,troca_turno,Problemas pessoais,43,2º Semestre,1
+489,1844,jubilamento,Trabalho,74,3º Semestre,4
+490,4402,trancamento,Insatisfacao com curso,89,1º Semestre,2
+491,2870,evasao,Desmotivacao,87,6º Semestre,5
+492,3000,jubilamento,Desmotivacao,26,4º Semestre,4
+493,2903,evasao,Desmotivacao,22,6º Semestre,1
+494,4952,trancamento,Mudanca de cidade,59,6º Semestre,2
+495,813,trancamento,Distancia,41,6º Semestre,4
+496,4521,jubilamento,Insatisfacao com curso,69,5º Semestre,3
+497,1727,jubilamento,Insatisfacao com curso,43,5º Semestre,3
+498,61,evasao,Mudanca de cidade,9,1º Semestre,3
+499,3824,troca_turno,Mudanca de cidade,84,6º Semestre,3
+500,1193,jubilamento,Mudanca de cidade,91,1º Semestre,3
+501,4775,trancamento,Reprovacoes acumuladas,39,2º Semestre,5
+502,984,evasao,Reprovacoes acumuladas,11,1º Semestre,4
+503,2992,trancamento,Mudanca de cidade,81,4º Semestre,2
+504,4275,troca_turno,Distancia,50,3º Semestre,3
+505,4626,troca_turno,Desmotivacao,14,2º Semestre,5
+506,2017,evasao,Reprovacoes acumuladas,23,2º Semestre,1
+507,178,jubilamento,Trabalho,55,4º Semestre,6
+508,2901,troca_turno,Desmotivacao,38,2º Semestre,1
+509,4670,jubilamento,Mudanca de cidade,44,6º Semestre,4
+510,2393,evasao,Mudanca de cidade,38,6º Semestre,5
+511,2491,trancamento,Distancia,35,6º Semestre,2
+512,972,jubilamento,Desmotivacao,43,4º Semestre,1
+513,1968,jubilamento,Trabalho,9,3º Semestre,4
+514,1490,jubilamento,Reprovacoes acumuladas,97,3º Semestre,1
+515,1219,evasao,Problemas pessoais,79,2º Semestre,1
+516,2784,jubilamento,Desmotivacao,36,1º Semestre,6
+517,246,jubilamento,Mudanca de cidade,59,3º Semestre,5
+518,130,jubilamento,Trabalho,12,3º Semestre,3
+519,3742,jubilamento,Desmotivacao,29,5º Semestre,3
+520,531,jubilamento,Insatisfacao com curso,35,4º Semestre,1
+521,3407,trancamento,Financeiro,70,2º Semestre,1
+522,1517,jubilamento,Mudanca de cidade,84,3º Semestre,2
+523,28,trancamento,Distancia,95,2º Semestre,5
+524,4676,jubilamento,Reprovacoes acumuladas,19,1º Semestre,3
+525,3654,troca_turno,Desmotivacao,13,3º Semestre,5
+526,4510,trancamento,Reprovacoes acumuladas,47,3º Semestre,5
+527,3401,jubilamento,Trabalho,25,5º Semestre,5
+528,1064,trancamento,Reprovacoes acumuladas,50,5º Semestre,6
+529,4999,evasao,Reprovacoes acumuladas,99,6º Semestre,4
+530,4935,troca_turno,Financeiro,20,5º Semestre,6
+531,1592,jubilamento,Distancia,98,5º Semestre,4
+532,3089,trancamento,Reprovacoes acumuladas,49,4º Semestre,4
+533,1776,evasao,Reprovacoes acumuladas,81,5º Semestre,6
+534,2202,evasao,Insatisfacao com curso,13,3º Semestre,4
+535,3123,jubilamento,Trabalho,77,6º Semestre,6
+536,4882,evasao,Insatisfacao com curso,51,6º Semestre,3
+537,983,jubilamento,Distancia,4,2º Semestre,3
+538,267,troca_turno,Mudanca de cidade,68,4º Semestre,1
+539,3558,trancamento,Problemas pessoais,40,5º Semestre,4
+540,2143,evasao,Trabalho,31,3º Semestre,6
+541,4351,troca_turno,Insatisfacao com curso,88,1º Semestre,1
+542,3115,troca_turno,Trabalho,77,2º Semestre,5
+543,479,troca_turno,Problemas pessoais,41,1º Semestre,4
+544,3127,troca_turno,Problemas pessoais,69,4º Semestre,3
+545,2155,evasao,Reprovacoes acumuladas,76,6º Semestre,3
+546,805,trancamento,Insatisfacao com curso,35,2º Semestre,3
+547,424,troca_turno,Trabalho,79,4º Semestre,1
+548,1391,evasao,Mudanca de cidade,29,3º Semestre,5
+549,1665,troca_turno,Desmotivacao,40,5º Semestre,4
+550,1599,jubilamento,Trabalho,47,2º Semestre,1
+551,1719,trancamento,Insatisfacao com curso,82,3º Semestre,1
+552,3605,evasao,Problemas pessoais,39,5º Semestre,3
+553,65,trancamento,Trabalho,32,5º Semestre,3
+554,2732,trancamento,Problemas pessoais,47,5º Semestre,4
+555,727,trancamento,Distancia,36,5º Semestre,3
+556,1797,troca_turno,Desmotivacao,89,1º Semestre,6
+557,2057,jubilamento,Trabalho,93,5º Semestre,6
+558,2610,evasao,Distancia,28,6º Semestre,6
+559,4184,trancamento,Insatisfacao com curso,29,5º Semestre,4
+560,4911,trancamento,Financeiro,4,5º Semestre,4
+561,3,trancamento,Financeiro,38,5º Semestre,5
+562,295,troca_turno,Desmotivacao,21,6º Semestre,6
+563,3125,troca_turno,Trabalho,23,6º Semestre,3
+564,846,trancamento,Insatisfacao com curso,55,5º Semestre,5
+565,1699,trancamento,Insatisfacao com curso,86,1º Semestre,2
+566,4724,evasao,Reprovacoes acumuladas,86,1º Semestre,5
+567,2670,jubilamento,Distancia,36,1º Semestre,1
+568,1210,troca_turno,Insatisfacao com curso,25,1º Semestre,3
+569,2399,troca_turno,Trabalho,17,3º Semestre,5
+570,4355,trancamento,Financeiro,52,3º Semestre,4
+571,432,troca_turno,Problemas pessoais,35,6º Semestre,3
+572,1229,evasao,Trabalho,38,5º Semestre,1
+573,4525,jubilamento,Problemas pessoais,69,1º Semestre,6
+574,2997,evasao,Financeiro,92,5º Semestre,5
+575,2755,evasao,Mudanca de cidade,65,3º Semestre,1
+576,2607,troca_turno,Desmotivacao,43,3º Semestre,1
+577,184,trancamento,Desmotivacao,58,2º Semestre,1
+578,4329,troca_turno,Distancia,46,4º Semestre,3
+579,3191,jubilamento,Problemas pessoais,82,3º Semestre,5
+580,324,trancamento,Desmotivacao,84,3º Semestre,3
+581,3235,evasao,Distancia,31,3º Semestre,1
+582,4004,evasao,Distancia,53,6º Semestre,4
+583,1105,trancamento,Financeiro,14,5º Semestre,5
+584,76,troca_turno,Trabalho,38,3º Semestre,5
+585,106,trancamento,Financeiro,59,6º Semestre,5
+586,1184,jubilamento,Trabalho,38,5º Semestre,3
+587,2313,evasao,Trabalho,16,4º Semestre,6
+588,2146,trancamento,Problemas pessoais,81,5º Semestre,3
+589,4470,trancamento,Financeiro,77,4º Semestre,6
+590,2486,trancamento,Reprovacoes acumuladas,34,3º Semestre,5
+591,441,evasao,Financeiro,84,6º Semestre,5
+592,193,trancamento,Desmotivacao,48,1º Semestre,1
+593,2707,troca_turno,Problemas pessoais,68,3º Semestre,2
+594,4774,evasao,Problemas pessoais,72,5º Semestre,4
+595,4303,troca_turno,Financeiro,79,1º Semestre,5
+596,226,trancamento,Trabalho,58,1º Semestre,2
+597,4925,evasao,Distancia,94,6º Semestre,5
+598,311,evasao,Desmotivacao,32,2º Semestre,4
+599,4269,evasao,Trabalho,12,5º Semestre,1
+600,2444,troca_turno,Insatisfacao com curso,63,2º Semestre,3
+601,3479,trancamento,Trabalho,80,3º Semestre,5
+602,2781,jubilamento,Mudanca de cidade,71,2º Semestre,1
+603,8,trancamento,Financeiro,69,5º Semestre,3
+604,215,troca_turno,Insatisfacao com curso,41,2º Semestre,6
+605,2973,trancamento,Mudanca de cidade,20,2º Semestre,6
+606,2585,jubilamento,Mudanca de cidade,58,5º Semestre,3
+607,1794,troca_turno,Insatisfacao com curso,64,5º Semestre,2
+608,4648,jubilamento,Insatisfacao com curso,37,1º Semestre,3
+609,3669,troca_turno,Insatisfacao com curso,50,1º Semestre,2
+610,4583,jubilamento,Reprovacoes acumuladas,90,2º Semestre,5
+611,4188,evasao,Financeiro,17,3º Semestre,4
+612,532,jubilamento,Trabalho,19,2º Semestre,3
+613,4584,evasao,Problemas pessoais,86,5º Semestre,3
+614,4643,jubilamento,Trabalho,15,1º Semestre,3
+615,2986,trancamento,Insatisfacao com curso,96,2º Semestre,6
+616,4252,trancamento,Problemas pessoais,10,5º Semestre,3
+617,3186,trancamento,Mudanca de cidade,93,2º Semestre,2
+618,878,trancamento,Distancia,28,5º Semestre,2
+619,3445,jubilamento,Insatisfacao com curso,100,2º Semestre,3
+620,2100,jubilamento,Desmotivacao,66,1º Semestre,4
+621,3647,jubilamento,Problemas pessoais,24,1º Semestre,3
+622,4894,jubilamento,Financeiro,40,6º Semestre,4
+623,4954,jubilamento,Insatisfacao com curso,86,4º Semestre,3
+624,2524,evasao,Reprovacoes acumuladas,7,6º Semestre,4
+625,2699,jubilamento,Desmotivacao,19,4º Semestre,4
+626,1064,jubilamento,Distancia,72,4º Semestre,6
+627,760,trancamento,Problemas pessoais,34,3º Semestre,2
+628,2111,trancamento,Mudanca de cidade,31,3º Semestre,4
+629,4236,jubilamento,Mudanca de cidade,9,1º Semestre,2
+630,4342,jubilamento,Reprovacoes acumuladas,12,6º Semestre,2
+631,45,troca_turno,Financeiro,31,1º Semestre,2
+632,3910,troca_turno,Financeiro,78,3º Semestre,4
+633,1283,jubilamento,Financeiro,45,4º Semestre,3
+634,1162,evasao,Problemas pessoais,73,4º Semestre,3
+635,1120,evasao,Financeiro,55,6º Semestre,4
+636,2287,trancamento,Insatisfacao com curso,55,2º Semestre,4
+637,3242,evasao,Insatisfacao com curso,50,1º Semestre,4
+638,2400,troca_turno,Financeiro,89,2º Semestre,2
+639,1504,jubilamento,Reprovacoes acumuladas,17,6º Semestre,2
+640,4555,jubilamento,Trabalho,49,6º Semestre,3
+641,4616,trancamento,Problemas pessoais,62,6º Semestre,3
+642,234,evasao,Financeiro,62,4º Semestre,5
+643,937,troca_turno,Financeiro,89,6º Semestre,1
+644,35,troca_turno,Reprovacoes acumuladas,50,6º Semestre,1
+645,2156,jubilamento,Distancia,25,4º Semestre,1
+646,993,trancamento,Insatisfacao com curso,63,3º Semestre,4
+647,3828,troca_turno,Trabalho,29,6º Semestre,2
+648,2194,evasao,Trabalho,62,1º Semestre,2
+649,3827,troca_turno,Desmotivacao,43,6º Semestre,3
+650,4674,trancamento,Desmotivacao,20,6º Semestre,5
+651,3255,trancamento,Trabalho,61,6º Semestre,4
+652,2567,evasao,Distancia,35,5º Semestre,2
+653,4915,evasao,Distancia,5,4º Semestre,6
+654,625,jubilamento,Reprovacoes acumuladas,78,5º Semestre,5
+655,1533,troca_turno,Insatisfacao com curso,94,4º Semestre,3
+656,1483,troca_turno,Desmotivacao,45,4º Semestre,3
+657,2844,evasao,Reprovacoes acumuladas,100,1º Semestre,5
+658,1163,trancamento,Reprovacoes acumuladas,100,6º Semestre,3
+659,776,evasao,Mudanca de cidade,63,3º Semestre,5
+660,2904,troca_turno,Problemas pessoais,49,2º Semestre,3
+661,4361,evasao,Problemas pessoais,15,5º Semestre,1
+662,561,evasao,Mudanca de cidade,65,5º Semestre,1
+663,1495,evasao,Distancia,43,5º Semestre,3
+664,2194,troca_turno,Reprovacoes acumuladas,7,3º Semestre,6
+665,2006,jubilamento,Problemas pessoais,18,4º Semestre,6
+666,1025,evasao,Problemas pessoais,64,1º Semestre,6
+667,2366,evasao,Financeiro,33,5º Semestre,3
+668,3735,jubilamento,Desmotivacao,39,2º Semestre,2
+669,442,trancamento,Mudanca de cidade,55,4º Semestre,1
+670,2269,jubilamento,Distancia,97,2º Semestre,4
+671,4714,troca_turno,Desmotivacao,69,2º Semestre,2
+672,301,jubilamento,Financeiro,24,3º Semestre,5
+673,504,troca_turno,Problemas pessoais,55,6º Semestre,5
+674,1596,evasao,Reprovacoes acumuladas,30,4º Semestre,5
+675,2540,evasao,Mudanca de cidade,55,5º Semestre,1
+676,4954,trancamento,Problemas pessoais,89,5º Semestre,4
+677,2287,trancamento,Mudanca de cidade,41,5º Semestre,2
+678,2981,troca_turno,Desmotivacao,67,3º Semestre,4
+679,818,troca_turno,Trabalho,83,2º Semestre,2
+680,3976,evasao,Trabalho,13,5º Semestre,2
+681,1846,jubilamento,Insatisfacao com curso,31,4º Semestre,6
+682,1727,troca_turno,Distancia,48,6º Semestre,1
+683,608,troca_turno,Distancia,61,6º Semestre,1
+684,4709,trancamento,Insatisfacao com curso,83,6º Semestre,1
+685,1843,evasao,Financeiro,42,2º Semestre,6
+686,4049,evasao,Financeiro,76,5º Semestre,2
+687,170,jubilamento,Desmotivacao,85,2º Semestre,4
+688,4041,jubilamento,Desmotivacao,10,2º Semestre,5
+689,2259,trancamento,Problemas pessoais,32,2º Semestre,1
+690,2991,troca_turno,Trabalho,52,4º Semestre,3
+691,2080,jubilamento,Reprovacoes acumuladas,95,1º Semestre,6
+692,3819,jubilamento,Distancia,10,4º Semestre,5
+693,4086,troca_turno,Financeiro,7,3º Semestre,4
+694,2913,troca_turno,Reprovacoes acumuladas,64,3º Semestre,6
+695,4196,troca_turno,Mudanca de cidade,37,5º Semestre,6
+696,1102,trancamento,Mudanca de cidade,97,5º Semestre,1
+697,67,trancamento,Desmotivacao,2,1º Semestre,4
+698,1346,evasao,Distancia,98,4º Semestre,6
+699,2819,troca_turno,Reprovacoes acumuladas,98,2º Semestre,5
+700,1322,evasao,Trabalho,4,5º Semestre,5
+701,3346,jubilamento,Distancia,80,3º Semestre,6
+702,1910,troca_turno,Trabalho,34,4º Semestre,3
+703,4740,troca_turno,Reprovacoes acumuladas,33,5º Semestre,3
+704,952,evasao,Insatisfacao com curso,96,3º Semestre,5
+705,3844,trancamento,Mudanca de cidade,84,5º Semestre,5
+706,3944,trancamento,Financeiro,72,4º Semestre,1
+707,4830,troca_turno,Reprovacoes acumuladas,35,6º Semestre,2
+708,3707,trancamento,Distancia,78,2º Semestre,1
+709,3805,trancamento,Financeiro,63,4º Semestre,2
+710,1982,evasao,Mudanca de cidade,56,5º Semestre,3
+711,880,trancamento,Distancia,5,2º Semestre,1
+712,2897,evasao,Reprovacoes acumuladas,60,2º Semestre,1
+713,2557,troca_turno,Financeiro,46,5º Semestre,4
+714,938,trancamento,Financeiro,47,1º Semestre,3
+715,221,troca_turno,Reprovacoes acumuladas,12,5º Semestre,2
+716,4182,trancamento,Financeiro,38,6º Semestre,1
+717,155,evasao,Distancia,22,6º Semestre,2
+718,4473,troca_turno,Distancia,72,6º Semestre,6
+719,125,evasao,Mudanca de cidade,41,3º Semestre,4
+720,2463,troca_turno,Problemas pessoais,41,5º Semestre,1
+721,4890,trancamento,Distancia,31,5º Semestre,4
+722,836,troca_turno,Problemas pessoais,22,6º Semestre,2
+723,1434,trancamento,Trabalho,52,4º Semestre,2
+724,2000,trancamento,Mudanca de cidade,6,3º Semestre,2
+725,4271,jubilamento,Problemas pessoais,41,2º Semestre,3
+726,139,jubilamento,Problemas pessoais,93,1º Semestre,2
+727,1320,troca_turno,Insatisfacao com curso,12,3º Semestre,2
+728,3014,trancamento,Reprovacoes acumuladas,30,5º Semestre,6
+729,2447,jubilamento,Reprovacoes acumuladas,78,2º Semestre,5
+730,889,jubilamento,Trabalho,100,3º Semestre,3
+731,3867,troca_turno,Mudanca de cidade,47,2º Semestre,1
+732,4688,troca_turno,Desmotivacao,52,4º Semestre,3
+733,1178,evasao,Desmotivacao,41,3º Semestre,4
+734,719,troca_turno,Financeiro,46,6º Semestre,3
+735,1921,evasao,Desmotivacao,18,2º Semestre,3
+736,2742,trancamento,Financeiro,7,1º Semestre,1
+737,924,jubilamento,Reprovacoes acumuladas,40,4º Semestre,5
+738,1950,trancamento,Problemas pessoais,29,4º Semestre,3
+739,4166,troca_turno,Mudanca de cidade,18,2º Semestre,2
+740,4662,trancamento,Trabalho,72,6º Semestre,5
+741,548,trancamento,Desmotivacao,46,5º Semestre,1
+742,1168,jubilamento,Insatisfacao com curso,1,3º Semestre,6
+743,1575,evasao,Distancia,33,1º Semestre,2
+744,599,jubilamento,Financeiro,80,5º Semestre,1
+745,2312,troca_turno,Trabalho,34,1º Semestre,4
+746,847,evasao,Trabalho,78,1º Semestre,3
+747,2329,evasao,Distancia,20,3º Semestre,5
+748,500,trancamento,Problemas pessoais,23,1º Semestre,3
+749,4559,trancamento,Desmotivacao,27,6º Semestre,2
+750,166,evasao,Distancia,56,5º Semestre,2
+751,4804,trancamento,Financeiro,4,4º Semestre,2
+752,2203,jubilamento,Desmotivacao,69,6º Semestre,1
+753,76,evasao,Desmotivacao,55,1º Semestre,1
+754,2877,evasao,Mudanca de cidade,40,4º Semestre,3
+755,3115,trancamento,Trabalho,25,5º Semestre,4
+756,591,evasao,Financeiro,62,4º Semestre,6
+757,2154,trancamento,Desmotivacao,38,1º Semestre,6
+758,1967,trancamento,Trabalho,87,5º Semestre,3
+759,289,trancamento,Trabalho,36,6º Semestre,6
+760,4367,jubilamento,Problemas pessoais,56,1º Semestre,1
+761,4205,evasao,Trabalho,65,3º Semestre,4
+762,2597,evasao,Desmotivacao,17,1º Semestre,4
+763,3994,troca_turno,Mudanca de cidade,95,1º Semestre,3
+764,3536,jubilamento,Desmotivacao,87,2º Semestre,1
+765,2325,trancamento,Mudanca de cidade,68,6º Semestre,3
+766,3308,troca_turno,Desmotivacao,38,5º Semestre,4
+767,1712,evasao,Trabalho,68,5º Semestre,3
+768,2553,jubilamento,Financeiro,89,2º Semestre,3
+769,1264,jubilamento,Desmotivacao,15,2º Semestre,5
+770,3042,jubilamento,Desmotivacao,16,2º Semestre,6
+771,312,troca_turno,Reprovacoes acumuladas,23,5º Semestre,3
+772,3691,troca_turno,Desmotivacao,74,1º Semestre,1
+773,3074,trancamento,Distancia,66,6º Semestre,2
+774,2658,troca_turno,Problemas pessoais,33,2º Semestre,2
+775,1963,evasao,Trabalho,27,2º Semestre,4
+776,3959,troca_turno,Problemas pessoais,18,1º Semestre,4
+777,3561,trancamento,Insatisfacao com curso,7,5º Semestre,5
+778,4553,jubilamento,Reprovacoes acumuladas,22,2º Semestre,1
+779,2689,trancamento,Problemas pessoais,86,6º Semestre,3
+780,2562,jubilamento,Distancia,90,4º Semestre,6
+781,1798,evasao,Reprovacoes acumuladas,67,1º Semestre,4
+782,1908,evasao,Trabalho,82,5º Semestre,2
+783,1459,evasao,Reprovacoes acumuladas,74,3º Semestre,4
+784,1457,trancamento,Insatisfacao com curso,55,6º Semestre,5
+785,3933,trancamento,Mudanca de cidade,5,3º Semestre,5
+786,745,troca_turno,Insatisfacao com curso,73,4º Semestre,2
+787,4101,troca_turno,Problemas pessoais,55,2º Semestre,3
+788,4553,jubilamento,Desmotivacao,19,1º Semestre,1
+789,4558,jubilamento,Reprovacoes acumuladas,50,3º Semestre,4
+790,3183,evasao,Trabalho,64,5º Semestre,2
+791,4899,troca_turno,Mudanca de cidade,65,5º Semestre,6
+792,4266,jubilamento,Trabalho,46,3º Semestre,6
+793,828,trancamento,Reprovacoes acumuladas,57,6º Semestre,5
+794,629,trancamento,Trabalho,99,4º Semestre,2
+795,1595,evasao,Problemas pessoais,90,1º Semestre,3
+796,1008,jubilamento,Desmotivacao,45,3º Semestre,5
+797,818,troca_turno,Insatisfacao com curso,6,2º Semestre,4
+798,4212,troca_turno,Financeiro,3,3º Semestre,5
+799,1365,evasao,Desmotivacao,45,4º Semestre,3
+800,2336,evasao,Trabalho,37,4º Semestre,5
+801,2809,evasao,Insatisfacao com curso,95,1º Semestre,6
+802,2461,evasao,Reprovacoes acumuladas,97,5º Semestre,1
+803,2094,trancamento,Reprovacoes acumuladas,59,2º Semestre,1
+804,800,trancamento,Distancia,65,6º Semestre,5
+805,2129,troca_turno,Reprovacoes acumuladas,80,4º Semestre,5
+806,387,troca_turno,Reprovacoes acumuladas,49,3º Semestre,1
+807,574,trancamento,Mudanca de cidade,1,4º Semestre,4
+808,4270,jubilamento,Financeiro,30,1º Semestre,6
+809,249,jubilamento,Reprovacoes acumuladas,95,2º Semestre,2
+810,2967,evasao,Reprovacoes acumuladas,67,1º Semestre,3
+811,1148,trancamento,Insatisfacao com curso,19,4º Semestre,5
+812,3403,trancamento,Distancia,95,3º Semestre,5
+813,2257,trancamento,Problemas pessoais,49,5º Semestre,2
+814,2676,trancamento,Mudanca de cidade,73,2º Semestre,3
+815,3382,jubilamento,Problemas pessoais,8,2º Semestre,3
+816,1167,trancamento,Distancia,10,2º Semestre,1
+817,2366,evasao,Insatisfacao com curso,71,3º Semestre,3
+818,1971,trancamento,Trabalho,7,1º Semestre,2
+819,768,jubilamento,Desmotivacao,79,1º Semestre,2
+820,471,jubilamento,Financeiro,94,5º Semestre,1
+821,3316,troca_turno,Insatisfacao com curso,51,2º Semestre,1
+822,2760,trancamento,Financeiro,40,3º Semestre,1
+823,1958,troca_turno,Desmotivacao,16,1º Semestre,2
+824,3725,evasao,Desmotivacao,37,5º Semestre,6
+825,1937,evasao,Mudanca de cidade,96,2º Semestre,4
+826,498,evasao,Distancia,56,4º Semestre,6
+827,3988,evasao,Insatisfacao com curso,78,3º Semestre,1
+828,2266,troca_turno,Distancia,34,5º Semestre,5
+829,1977,evasao,Problemas pessoais,36,6º Semestre,4
+830,4363,troca_turno,Financeiro,35,1º Semestre,1
+831,4470,evasao,Insatisfacao com curso,79,3º Semestre,5
+832,4176,evasao,Financeiro,82,4º Semestre,3
+833,3067,troca_turno,Problemas pessoais,99,4º Semestre,5
+834,2860,trancamento,Mudanca de cidade,42,1º Semestre,2
+835,4992,trancamento,Financeiro,13,2º Semestre,1
+836,1847,troca_turno,Trabalho,4,4º Semestre,6
+837,104,troca_turno,Distancia,37,4º Semestre,2
+838,3725,evasao,Distancia,82,2º Semestre,3
+839,3296,troca_turno,Problemas pessoais,68,3º Semestre,1
+840,4586,jubilamento,Mudanca de cidade,80,2º Semestre,3
+841,42,troca_turno,Reprovacoes acumuladas,1,1º Semestre,3
+842,3571,trancamento,Insatisfacao com curso,28,3º Semestre,2
+843,3411,trancamento,Mudanca de cidade,56,6º Semestre,5
+844,3403,evasao,Insatisfacao com curso,81,1º Semestre,2
+845,3880,trancamento,Reprovacoes acumuladas,96,5º Semestre,1
+846,713,evasao,Insatisfacao com curso,89,2º Semestre,3
+847,4307,troca_turno,Reprovacoes acumuladas,14,6º Semestre,6
+848,3407,trancamento,Financeiro,14,1º Semestre,2
+849,4043,trancamento,Reprovacoes acumuladas,54,3º Semestre,5
+850,3530,jubilamento,Problemas pessoais,52,4º Semestre,6
+851,1714,jubilamento,Distancia,96,2º Semestre,1
+852,4747,trancamento,Mudanca de cidade,52,3º Semestre,3
+853,4568,evasao,Insatisfacao com curso,12,5º Semestre,1
+854,3345,jubilamento,Reprovacoes acumuladas,60,6º Semestre,1
+855,325,troca_turno,Problemas pessoais,51,2º Semestre,5
+856,3004,trancamento,Mudanca de cidade,65,1º Semestre,3
+857,593,evasao,Problemas pessoais,59,2º Semestre,3
+858,4860,jubilamento,Insatisfacao com curso,62,6º Semestre,4
+859,975,troca_turno,Mudanca de cidade,86,5º Semestre,3
+860,1840,evasao,Problemas pessoais,89,6º Semestre,6
+861,30,evasao,Financeiro,24,2º Semestre,4
+862,3506,trancamento,Desmotivacao,56,1º Semestre,3
+863,697,trancamento,Trabalho,30,4º Semestre,3
+864,2267,jubilamento,Distancia,32,4º Semestre,3
+865,4637,trancamento,Reprovacoes acumuladas,11,2º Semestre,3
+866,3299,evasao,Distancia,96,3º Semestre,3
+867,4935,jubilamento,Mudanca de cidade,77,2º Semestre,2
+868,553,troca_turno,Trabalho,92,6º Semestre,6
+869,2200,troca_turno,Reprovacoes acumuladas,50,1º Semestre,2
+870,2948,evasao,Desmotivacao,61,2º Semestre,2
+871,849,jubilamento,Mudanca de cidade,3,4º Semestre,1
+872,2691,evasao,Problemas pessoais,68,3º Semestre,3
+873,4203,trancamento,Problemas pessoais,27,5º Semestre,1
+874,249,troca_turno,Financeiro,65,6º Semestre,5
+875,873,jubilamento,Financeiro,94,5º Semestre,4
+876,2281,trancamento,Mudanca de cidade,36,2º Semestre,3
+877,4611,jubilamento,Trabalho,70,2º Semestre,4
+878,2647,jubilamento,Desmotivacao,6,4º Semestre,6
+879,911,jubilamento,Trabalho,58,3º Semestre,4
+880,869,jubilamento,Insatisfacao com curso,36,5º Semestre,5
+881,3272,jubilamento,Insatisfacao com curso,22,2º Semestre,4
+882,3211,evasao,Trabalho,59,4º Semestre,1
+883,2225,trancamento,Financeiro,22,4º Semestre,5
+884,2128,evasao,Problemas pessoais,76,5º Semestre,6
+885,3180,evasao,Trabalho,14,4º Semestre,2
+886,2188,trancamento,Trabalho,33,6º Semestre,4
+887,2871,troca_turno,Problemas pessoais,49,1º Semestre,5
+888,1410,jubilamento,Financeiro,1,1º Semestre,6
+889,1145,evasao,Distancia,75,5º Semestre,5
+890,2872,jubilamento,Problemas pessoais,68,1º Semestre,4
+891,1439,trancamento,Insatisfacao com curso,89,2º Semestre,1
+892,1175,troca_turno,Problemas pessoais,6,3º Semestre,4
+893,1352,evasao,Trabalho,61,3º Semestre,3
+894,3478,evasao,Distancia,95,4º Semestre,4
+895,547,jubilamento,Financeiro,52,2º Semestre,1
+896,3155,troca_turno,Trabalho,57,6º Semestre,5
+897,3120,jubilamento,Insatisfacao com curso,13,3º Semestre,2
+898,4913,trancamento,Mudanca de cidade,99,6º Semestre,6
+899,319,evasao,Mudanca de cidade,58,5º Semestre,1
+900,163,evasao,Trabalho,32,2º Semestre,1
+901,1567,jubilamento,Financeiro,23,3º Semestre,4
+902,2755,evasao,Financeiro,92,5º Semestre,6
+903,657,troca_turno,Financeiro,16,6º Semestre,3
+904,2511,evasao,Reprovacoes acumuladas,51,2º Semestre,4
+905,4625,jubilamento,Reprovacoes acumuladas,13,5º Semestre,4
+906,2684,troca_turno,Reprovacoes acumuladas,38,4º Semestre,4
+907,4920,evasao,Problemas pessoais,12,3º Semestre,5
+908,3147,troca_turno,Trabalho,74,3º Semestre,5
+909,404,troca_turno,Reprovacoes acumuladas,64,6º Semestre,5
+910,486,trancamento,Distancia,85,2º Semestre,3
+911,4483,evasao,Desmotivacao,74,6º Semestre,2
+912,4801,jubilamento,Distancia,100,6º Semestre,5
+913,3939,troca_turno,Insatisfacao com curso,54,3º Semestre,1
+914,972,jubilamento,Financeiro,21,1º Semestre,1
+915,4082,troca_turno,Trabalho,81,1º Semestre,4
+916,2987,troca_turno,Mudanca de cidade,62,4º Semestre,4
+917,3760,trancamento,Desmotivacao,74,1º Semestre,4
+918,593,evasao,Problemas pessoais,87,2º Semestre,3
+919,534,evasao,Mudanca de cidade,17,5º Semestre,4
+920,2060,trancamento,Distancia,26,1º Semestre,4
+921,3152,evasao,Trabalho,34,4º Semestre,6
+922,4247,troca_turno,Problemas pessoais,33,5º Semestre,1
+923,2678,trancamento,Problemas pessoais,17,4º Semestre,3
+924,1624,trancamento,Problemas pessoais,46,5º Semestre,1
+925,2850,evasao,Trabalho,49,1º Semestre,2
+926,834,jubilamento,Insatisfacao com curso,89,1º Semestre,6
+927,4684,jubilamento,Reprovacoes acumuladas,15,3º Semestre,4
+928,1474,troca_turno,Financeiro,94,1º Semestre,6
+929,1784,trancamento,Trabalho,71,5º Semestre,2
+930,1213,trancamento,Mudanca de cidade,55,3º Semestre,2
+931,3372,jubilamento,Desmotivacao,2,4º Semestre,3
+932,2525,evasao,Trabalho,89,3º Semestre,6
+933,1558,trancamento,Mudanca de cidade,86,3º Semestre,3
+934,3518,evasao,Distancia,36,6º Semestre,4
+935,3279,trancamento,Problemas pessoais,81,3º Semestre,1
+936,1032,trancamento,Trabalho,95,5º Semestre,5
+937,1861,troca_turno,Trabalho,77,3º Semestre,4
+938,1030,troca_turno,Reprovacoes acumuladas,22,6º Semestre,3
+939,4301,evasao,Insatisfacao com curso,83,1º Semestre,5
+940,3297,troca_turno,Trabalho,39,2º Semestre,5
+941,518,jubilamento,Trabalho,50,5º Semestre,4
+942,1269,evasao,Distancia,39,2º Semestre,5
+943,433,evasao,Reprovacoes acumuladas,78,6º Semestre,4
+944,1537,troca_turno,Problemas pessoais,72,6º Semestre,6
+945,1539,evasao,Trabalho,42,5º Semestre,3
+946,1525,trancamento,Problemas pessoais,46,4º Semestre,2
+947,4814,trancamento,Distancia,96,4º Semestre,1
+948,4005,evasao,Insatisfacao com curso,96,1º Semestre,5
+949,3626,jubilamento,Distancia,100,5º Semestre,3
+950,532,troca_turno,Distancia,79,1º Semestre,5
+951,3803,evasao,Desmotivacao,57,6º Semestre,6
+952,1736,jubilamento,Reprovacoes acumuladas,67,2º Semestre,6
+953,2108,troca_turno,Reprovacoes acumuladas,72,3º Semestre,5
+954,4040,troca_turno,Insatisfacao com curso,60,5º Semestre,1
+955,1738,jubilamento,Reprovacoes acumuladas,7,5º Semestre,3
+956,4583,troca_turno,Distancia,50,1º Semestre,4
+957,3916,trancamento,Problemas pessoais,44,4º Semestre,5
+958,3925,jubilamento,Mudanca de cidade,71,3º Semestre,4
+959,3188,trancamento,Mudanca de cidade,96,6º Semestre,2
+960,2180,evasao,Reprovacoes acumuladas,69,2º Semestre,6
+961,289,trancamento,Financeiro,95,3º Semestre,6
+962,3463,troca_turno,Distancia,20,4º Semestre,2
+963,2947,jubilamento,Insatisfacao com curso,11,3º Semestre,6
+964,2935,jubilamento,Desmotivacao,82,3º Semestre,6
+965,259,evasao,Financeiro,74,5º Semestre,5
+966,3229,trancamento,Problemas pessoais,57,5º Semestre,5
+967,103,trancamento,Desmotivacao,61,1º Semestre,6
+968,3634,jubilamento,Desmotivacao,35,5º Semestre,4
+969,2838,evasao,Financeiro,96,2º Semestre,5
+970,4193,evasao,Mudanca de cidade,42,3º Semestre,5
+971,274,jubilamento,Distancia,93,1º Semestre,6
+972,3142,jubilamento,Trabalho,56,2º Semestre,3
+973,4030,trancamento,Distancia,1,5º Semestre,5
+974,3792,evasao,Desmotivacao,53,1º Semestre,4
+975,2483,jubilamento,Mudanca de cidade,77,6º Semestre,2
+976,4960,troca_turno,Trabalho,51,1º Semestre,1
+977,4903,jubilamento,Distancia,36,2º Semestre,6
+978,3611,evasao,Financeiro,69,2º Semestre,1
+979,452,evasao,Insatisfacao com curso,47,2º Semestre,4
+980,718,jubilamento,Distancia,21,4º Semestre,4
+981,4870,evasao,Desmotivacao,56,2º Semestre,4
+982,2247,jubilamento,Desmotivacao,30,2º Semestre,4
+983,4454,jubilamento,Reprovacoes acumuladas,62,3º Semestre,6
+984,4808,troca_turno,Mudanca de cidade,100,2º Semestre,4
+985,3753,trancamento,Desmotivacao,3,6º Semestre,2
+986,1653,trancamento,Financeiro,31,1º Semestre,4
+987,2948,evasao,Insatisfacao com curso,48,3º Semestre,1
+988,4072,troca_turno,Distancia,83,1º Semestre,3
+989,588,trancamento,Insatisfacao com curso,11,5º Semestre,5
+990,4509,trancamento,Problemas pessoais,77,3º Semestre,3
+991,1450,troca_turno,Trabalho,67,1º Semestre,1
+992,2291,evasao,Insatisfacao com curso,32,1º Semestre,5
+993,819,trancamento,Reprovacoes acumuladas,97,4º Semestre,6
+994,4310,troca_turno,Distancia,52,4º Semestre,1
+995,2193,jubilamento,Mudanca de cidade,76,5º Semestre,4
+996,3442,troca_turno,Problemas pessoais,67,4º Semestre,3
+997,2057,trancamento,Distancia,17,2º Semestre,1
+998,1576,evasao,Reprovacoes acumuladas,79,2º Semestre,5
+999,4539,trancamento,Financeiro,46,4º Semestre,4
+1000,3529,evasao,Distancia,3,2º Semestre,3
