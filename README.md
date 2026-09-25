@@ -73,7 +73,7 @@ não há restrições de privacidade ou direitos de terceiros envolvidos.
 ```
 MELO, Stephani dos Santos. Dataset sintético: Dashboard de Business
 Intelligence para Gestão Acadêmica. São Paulo, 2026. Disponível em:
-<URL_DO_REPOSITORIO>. Acesso em: DD mês. AAAA.
+<https://github.com/stephanimelo/dataset-tcc-dashboard-academico>. Acesso em: DD mês. AAAA.
 ```
 
 ## Trabalho relacionado
